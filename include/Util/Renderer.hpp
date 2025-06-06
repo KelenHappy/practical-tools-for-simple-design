@@ -50,6 +50,9 @@ public:
      *
      * @note The user is not recommended to modify this function.
      */
+    void ClearGameObject() {
+     m_Children.clear();
+    }
     void Update();
 
 private:
