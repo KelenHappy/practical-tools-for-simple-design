@@ -3,7 +3,7 @@
 
 #include <fstream>
 
-std::string PTSD_Config::TITLE = "Practice-Tools-for-Simple-Design";
+std::string PTSD_Config::TITLE = "明日方舟";
 
 int PTSD_Config::WINDOW_POS_X = SDL_WINDOWPOS_UNDEFINED;
 int PTSD_Config::WINDOW_POS_Y = SDL_WINDOWPOS_UNDEFINED;
